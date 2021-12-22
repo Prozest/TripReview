@@ -34,7 +34,7 @@
             <div class="line-vert"></div>
             @guest
             @else
-            <div><a href="dashboard" class="nav-item">DASHBOARD</a></div>
+            <div><a href="/dashboard" class="nav-item">DASHBOARD</a></div>
             @endguest
             <div><a href="/about" class="nav-item">ABOUT</a></div>
             <div><a href="/" class="nav-item">HOME</a></div>
